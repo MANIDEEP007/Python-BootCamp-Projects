@@ -7,3 +7,4 @@ Udemy Course Work - Projects and their extensions
 - [Project 5](https://github.com/MANIDEEP007/Python-BootCamp-Projects/tree/master/5.Plotter_Project) - Generic Plotter for Random Data/Customize Data/CSV Data
 - [Project 6](https://github.com/MANIDEEP007/Python-BootCamp-Projects/tree/master/6.Caterpillar_Game) - Caterpillar Game using Turtle
 - [Project 7](https://github.com/MANIDEEP007/Python-BootCamp-Projects/tree/master/7.Match_Maker) - Match Maker using Tkinter
+- [Project 8](https://github.com/MANIDEEP007/Python-BootCamp-Projects/tree/master/8.Smart_Calculator) - Smart Calculator using TKinter
